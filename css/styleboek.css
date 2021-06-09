@@ -97,6 +97,21 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 
 -------------------------------------------------------------------*/
 
+#home > div > div > div > div  
+
+    {
+        margin-top: 0 !important;
+    }
+
+
+
+
+
+#skills > div > div > div.hs-line-4.font-alt.mb-20 {
+
+    text-align: center;
+}
+
 .video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
 
 .video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
