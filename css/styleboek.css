@@ -96,6 +96,29 @@ Section Heading:    24px/1.3 "Open Sans", arial, sans-serif;
 Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 
 -------------------------------------------------------------------*/
+
+.anchorover {
+    display:block;
+    padding-top:100px;
+    margin-top:-100px;
+ }
+
+
+.anchorboektrailer {
+    display:block;
+    padding-top:100px;
+    margin-top:-100px;
+ }
+
+ .anchorpresentaties {
+    display:block;
+    padding-top:100px;
+    margin-top:-100px;
+ }
+
+
+
+
 #trailers {
 
     background: #f8f8f8;
