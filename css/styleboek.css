@@ -97,6 +97,31 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 
 -------------------------------------------------------------------*/
 
+#home {
+    padding-bottom: 40px;
+}
+
+
+
+
+
+
+#reacties > div.owl-wrapper-outer.autoHeight > div > div.owl-item.active > div > div > div > div { margin: auto;}
+
+
+#trailers > div:nth-child(1) > h1 {text-align: center;}
+
+
+
+
+
+#skills > div > div > div.col-sm-9 {
+    margin:auto;
+}
+
+
+
+
 #home > div > div > div > div  
 
     {
