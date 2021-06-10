@@ -1218,7 +1218,7 @@ if (typeof Object.create !== "function") {
         startDragging: false,
         afterLazyLoad: false,
         autoplay:true,
-autoplayTimeout:500,
+  autoplayTimeout:5000,
         
     };
 })(jQuery, window, document);
