@@ -97,6 +97,10 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 
 -------------------------------------------------------------------*/
 
+#anchorboekpresentaties {
+display: none;
+}
+
 #news
 
 {
