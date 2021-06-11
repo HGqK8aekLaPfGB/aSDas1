@@ -335,7 +335,7 @@ body > section:nth-child(3) {
  }
 
  .anchorpresentaties {
-    display:block;
+    display: none;
     padding-top:100px;
     margin-top:-100px;
  }
