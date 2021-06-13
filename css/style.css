@@ -96,9 +96,12 @@ Section Heading:    24px/1.3 "Open Sans", arial, sans-serif;
 Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 
 -------------------------------------------------------------------*/
+
+
+
 #news {
     position: relative;
-    top: -50px;
+    top: -40px;
 }
 
 #videos {
@@ -118,7 +121,7 @@ body > section.page-section.bg-gray-lighter > div > div > h2 {
 
 
 #test > h2 {
-    margin-bottom: 35px !important;
+    margin-bottom: 30px !important;
     margin-top: 35px !important;
 
 }
