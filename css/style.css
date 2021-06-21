@@ -99,6 +99,18 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 
 
 
+
+
+
+#home > div > div > div > div > div.col-sm-6.col-lg-5.align-center.pt-20.pt-lg-0.mb-xs-30 > div.section-text.white.mb-70.mb-xs-40.text-justify > div > div.footer-social-links.mb-110.mb-xs-60 {
+
+    position: relative;
+    bottom: 103px;
+    left: 306px;
+
+}
+
+
 #news {
     position: relative;
     top: -40px;
@@ -4599,14 +4611,14 @@ background: radial-gradient(circle, rgba(160,59,49,1) 0%, rgba(37,32,28,1) 100%)
     font-size: 14px;
 }
 .footer-social-links a{
-    width: 25px;
-    height: 25px;
-    line-height: 25px !important;
+    width: 55px;
+    height: 55px;
+    line-height: 55px !important;
     position: relative;
-    margin: 0 6px;
+    margin: 0 16px;
     text-align: center;
     display: inline-block;
-    color: #111;
+    color: rgb(255, 255, 255);
     
     -webkit-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);  
     -moz-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
@@ -4628,7 +4640,7 @@ background: radial-gradient(circle, rgba(160,59,49,1) 0%, rgba(37,32,28,1) 100%)
     position: absolute;
     top: 0;
     left: 0;
-    border: 1px solid #111;
+    border: 2px solid #ffd500;
     
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
