@@ -96,11 +96,29 @@ Section Heading:    24px/1.3 "Open Sans", arial, sans-serif;
 Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 
 -------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
 @media only screen and (max-width: 680px) {
 div.mouse_scroll {
     display: none;
 }
+#home > div > div > div > div > div.col-sm-6.col-lg-5.align-center.pt-20.pt-lg-0.mb-xs-30 > div.section-text.white.mb-70.mb-xs-40.text-justify > div > div.footer-social-links.mb-110.mb-xs-60 {
 
+    margin-top: 40px;
+    margin-left: 60px;
+    position: static !important;
+
+
+}
+#news > div > div > div:nth-child(1) {
+    left: 0px !important;
+}
 
 
 }
